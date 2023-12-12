@@ -1,4 +1,4 @@
-### Hi there 👋, Jagadeesh here
+### Hi there 👋, Jagadeesh here. I'm a Masters Student in StonyBrook University majoring in CS
 
 - 🔭 I’m currently working on System Security Project on NSFW images
 - 🌱 I’m currently trying to learn Frontend technologies
