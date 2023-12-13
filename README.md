@@ -1,4 +1,4 @@
-### Hi there 👋, Jagadeesh here. I'm a Masters Student in StonyBrook University majoring in CS
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=%F0%9F%91%8BHey%20there!%20I'm%20%20Jagadeesh&fontSize=57&reversal=true&&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 - 🔭 I’m currently working on System Security Project on NSFW images
 - 🌱 I’m currently trying to learn Frontend technologies
