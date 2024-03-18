@@ -7,9 +7,10 @@
 - 📫 How to reach me: jvanga@cs.stonybrook.edu
 
 <p float="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesh-r1&langs_count=8&hide=html&layout=compact" width="400" />
 <img src="https://stats.quine.sh/jagadeesh-r1/github?theme=dark" width="400" />  
 <img src="https://stats.quine.sh/jagadeesh-r1/topics-over-time?theme=dark" width="450" />
-<img src="https://stats.quine.sh/jagadeesh-r1/languages-over-time?theme=dark" width="400" />
+<!-- <img src="https://stats.quine.sh/jagadeesh-r1/languages-over-time?theme=dark" width="400" /> -->
 </p>
 
 
