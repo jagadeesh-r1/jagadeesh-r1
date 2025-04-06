@@ -14,17 +14,20 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jagadeesh-r1&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagadeesh-r1&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="230" />
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesh-r1&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <!-- Top Languages Card --> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesh-r1&layout=compact&theme=radical" alt="Top Languages" width="400" height="200"/>
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeesh-r1&theme=radical" alt="GitHub Streak" width="400" />
 
   <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jagadeesh-r1&theme=onedark" alt="Trophies" width="400" />
-</img>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jagadeesh-r1&theme=onedark" alt="Trophies" /></img>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagadeesh-r1&theme=radical" alt="Hoang Son's GitHub Achievements" />
+</div>
+</p>
 
 ---
 
@@ -33,5 +36,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jagadeesh-reddy-vanga/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:jvanga@cs.stonybrook.edu"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/jagadeesh-r1"><img src="https://img.shields.io/github/followers/jagadeesh-r1?label=Follow&style=social" alt="GitHub Followers" /></a>
+<!--   <a href="https://github.com/jagadeesh-r1"><img src="https://img.shields.io/github/followers/jagadeesh-r1?label=Follow&style=social" alt="GitHub Followers" /></a> -->
+    <!-- GitHub Profile Views Badge -->
+  <a href="https://github.com/jagadeesh-r1">
+    <img src="https://komarev.com/ghpvc/?username=jagadeesh-r1&style=flat-square" alt="Profile Views" style="margin: 10px;"/>
+  </a>
 </p>
